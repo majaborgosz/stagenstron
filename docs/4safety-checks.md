@@ -3,7 +3,7 @@ title: Safety Checks
 layout: default
 nav_order: 2
 ---
-## 4. Safety Checks 
+## Safety Checks 
 * Check brakes before and after riding.
 * Check all parts and fasteners before and after riding.
 * Check reflectors and front light regularly.

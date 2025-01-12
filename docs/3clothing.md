@@ -3,7 +3,7 @@ title: Clothing
 layout: default
 nav_order: 2
 ---
-## 3. Clothing 
+## Clothing 
 * Wear hand protection during assembly, disassembly, adjustment, or repair.
 * Do not wear loose clothing.
 * Wear closed-toe shoes with good traction.

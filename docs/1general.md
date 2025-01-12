@@ -3,7 +3,7 @@ title: General
 layout: default
 nav_order: 2
 ---
-## 1. General
+## General
 * Read ALL instructions before assembly and use. 
 * Contact customer service if unclear.
 * Give this manual to all users.

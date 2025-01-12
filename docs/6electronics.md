@@ -3,7 +3,7 @@ title: Electronics
 layout: default
 nav_order: 2
 ---
-## 6. Electronics
+## Electronics
 * Do not use throttle, PAS, cruise, or push assist control in in conditions where it might be unsafe.
 * Do not adjust default settings in the display panel.
 * Do not operate technician-defined menus.

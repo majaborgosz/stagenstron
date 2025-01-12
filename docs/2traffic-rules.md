@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 ---
 
-## 2. Traffic Rules 
+## Traffic Rules 
 * Obey all traffic laws.
 * Do not let these people ride:
     * Children.

@@ -3,7 +3,7 @@ title: Use
 layout: default
 nav_order: 2
 ---
-## 5. Use
+## Use
 * One person at a time.
 * Do not carry children in the rear basket.
 * Do not ride faster than your stopping distance.
