@@ -1,6 +1,7 @@
 ---
 title: Clothing
 layout: default
+parent: 0safety-information
 nav_order: 4
 ---
 ## Clothing 

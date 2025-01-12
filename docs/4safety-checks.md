@@ -1,6 +1,7 @@
 ---
 title: Safety Checks 
 layout: default
+parent: 0safety-information
 nav_order: 5
 ---
 ## Safety Checks 

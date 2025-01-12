@@ -1,6 +1,7 @@
 ---
 title: Electronics
 layout: default
+parent: 0safety-information
 nav_order: 7
 ---
 ## Electronics

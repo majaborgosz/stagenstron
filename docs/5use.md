@@ -1,6 +1,7 @@
 ---
 title: Use
 layout: default
+parent: 0safety-information
 nav_order: 6
 ---
 ## Use
