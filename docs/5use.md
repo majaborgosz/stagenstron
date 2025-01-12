@@ -4,7 +4,7 @@ layout: default
 parent: Safety Information
 nav_order: 6
 ---
-## Use
+# Use
 * One person at a time.
 * Do not carry children in the rear basket.
 * Do not ride faster than your stopping distance.
