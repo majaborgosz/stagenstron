@@ -1,7 +1,7 @@
 ---
 title: Safety Checks 
 layout: default
-nav_order: 2
+nav_order: 5
 ---
 ## Safety Checks 
 * Check brakes before and after riding.

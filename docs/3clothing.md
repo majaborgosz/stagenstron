@@ -1,7 +1,7 @@
 ---
 title: Clothing
 layout: default
-nav_order: 2
+nav_order: 4
 ---
 ## Clothing 
 * Wear hand protection during assembly, disassembly, adjustment, or repair.

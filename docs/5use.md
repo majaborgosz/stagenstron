@@ -1,7 +1,7 @@
 ---
 title: Use
 layout: default
-nav_order: 2
+nav_order: 6
 ---
 ## Use
 * One person at a time.
