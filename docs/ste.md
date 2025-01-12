@@ -1,3 +1,8 @@
+---
+title: Markdown Demo
+layout: default
+nav_order: 2
+---
 # Safety Information 
 ## 1. General
 * Read ALL instructions before assembly and use. 
