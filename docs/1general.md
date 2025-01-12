@@ -1,7 +1,7 @@
 ---
 title: General
 layout: default
-parent: 0safety-information
+parent: Safety Information
 nav_order: 2
 ---
 ## General
